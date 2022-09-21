@@ -60,6 +60,9 @@ prop.table(op)*100
 of <- table(Enc1$oi_2a)
 prop.table(of)*100
 
+# ¿En cuál facultad presentaste?
+ofb <- table(Enc1$oi_2b)
+ofb
 # Estuviste inscrito en otra facultad
 oi_4 <- table(Enc1$oi_4)
 prop.table(oi_4)*100
@@ -93,3 +96,21 @@ write.csv(Enc1, "Encuesta_codificada.csv")
 
 # paleta de colores
 # https://estadisticamente.com/paletas-de-colores-en-r/
+
+library(dplyr)
+
+
+Seg.opcion <- Enc1 %>% 
+  filter(oi_2 == "NO")
+Prim.op <- Enc1 %>% 
+  filter(oi_2 == "SI")
+
+# remober objetos rm()
+rm(oi2.no)
+rm(F)
+
+barplot(round(gen/length(Enc1$Genero)*100,1),
+        ylim = c(0,100),
+        col="lightgreen",
+        xlab="Género",
+        ylab= "Porcentaje")
