@@ -105,7 +105,7 @@ Seg.opcion <- Enc1 %>%
 Prim.op <- Enc1 %>% 
   filter(oi_2 == "SI")
 
-# remober objetos rm()
+# remover objetos rm()
 rm(oi2.no)
 rm(F)
 
