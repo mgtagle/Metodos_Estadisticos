@@ -53,4 +53,4 @@ Objetivo: Analizar la relación entre variables forestales mediante técnicas de
 
 Objetivo: Integrar los conocimientos adquiridos mediante el análisis completo de una base de datos forestal, elaborando un informe reproducible y comunicando los resultados con fundamento estadístico.
 
-:octocat: Exposición de resultados, entrega del informe y, si el plan de estudios lo requiere, un examen final integrador.
+:octocat: Exposición de resultados y entrega del informe.
