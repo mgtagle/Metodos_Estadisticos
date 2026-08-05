@@ -28,7 +28,7 @@ Al finalizar el curso el estudiante será capaz de:
 
 ### :round_pushpin: Semana 1 a 6. **Fase I: Fundamentos de la estadística y análisis exploratorio de datos**.
 
-- Objetivo: Desarrollar las bases del razonamiento estadístico mediante la organización, descripción y visualización de datos forestales, utilizando herramientas computacionales para identificar patrones y resumir información cuantitativa.
+- :dart: Objetivo: Desarrollar las bases del razonamiento estadístico mediante la organización, descripción y visualización de datos forestales, utilizando herramientas computacionales para identificar patrones y resumir información cuantitativa.
 
   + :octocat: Contenido: Estadística descriptiva, organización de datos, visualización, distribuciones de probabilidad e introducción a la inferencia.
 
@@ -40,7 +40,7 @@ Al finalizar el curso el estudiante será capaz de:
 -----
 ### :round_pushpin: Semana 8 a 12. **Fase II: Inferencia estadística y comparación de tratamientos**.
 
-- Objetivo: Aplicar procedimientos de inferencia estadística para evaluar hipótesis y comparar poblaciones o tratamientos en estudios forestales, verificando previamente los supuestos de los modelos estadísticos.
+- :dart: Objetivo: Aplicar procedimientos de inferencia estadística para evaluar hipótesis y comparar poblaciones o tratamientos en estudios forestales, verificando previamente los supuestos de los modelos estadísticos.
 
   + :octocat: Contenido: Pruebas de hipótesis, prueba t, evaluación de supuestos, ANOVA y comparaciones múltiples.
 
@@ -53,7 +53,7 @@ Al finalizar el curso el estudiante será capaz de:
 -----
 ### :round_pushpin: Semana 14 a 15. **Fase III: Relación entre variables y modelación estadística**.
 
-- Objetivo: Analizar la relación entre variables forestales mediante técnicas de correlación y regresión lineal, evaluando su capacidad para explicar procesos biológicos y ambientales.
+- :dart: Objetivo: Analizar la relación entre variables forestales mediante técnicas de correlación y regresión lineal, evaluando su capacidad para explicar procesos biológicos y ambientales.
 
   + :octocat: Contenido: Correlación, regresión lineal y aplicaciones forestales. Desarrollo del proyecto integrador.
 
@@ -61,6 +61,6 @@ Al finalizar el curso el estudiante será capaz de:
 
 ### 📍 Semana 16. **Fase IV: Integración y comunicación de resultados**.
 
-- Objetivo: Integrar los conocimientos adquiridos mediante el análisis completo de una base de datos forestal, elaborando un informe reproducible y comunicando los resultados con fundamento estadístico.
+- :dart: Objetivo: Integrar los conocimientos adquiridos mediante el análisis completo de una base de datos forestal, elaborando un informe reproducible y comunicando los resultados con fundamento estadístico.
 
   + :octocat: Exposición de resultados y entrega del informe.
